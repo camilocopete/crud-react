@@ -112,9 +112,9 @@ const ShowProducts = () => {
 
     return (
         <>
-            {/* Navbar */}
+            <MenuBar></MenuBar>
             <AppBar position="static">
-               
+                              
                 <Toolbar>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                         Ventana de Productos

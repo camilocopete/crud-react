@@ -113,7 +113,7 @@ const ShowUsers = () => {
 
     return (
         <>            
-                {/* Navbar */}  
+            <MenuBar></MenuBar>
             <AppBar position="static">
 
                 <Toolbar>
